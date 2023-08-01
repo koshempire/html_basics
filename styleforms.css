@@ -1,0 +1,17 @@
+
+h2{
+    border: 2px solid chocolate;
+    text-align: center;
+    color: #ef1818;
+    background-color: chartreuse;
+    padding: 20px;
+    margin: 20px;
+}
+form{
+border: #d0657a;
+text-align: center;
+color: #111111;
+background-color: #d0657a;
+padding: 20px;
+margin: 20px;
+}
